@@ -1,0 +1,32 @@
+ID;Nom de l'établissement;Adresse de l'établissement;Code postal;Commune;Type d'établissement;Adresse électronique;Spécialité culinaire;Horaires d'ouverture et de fermeture de l'établissement;Accueil des personnes à mobilité réduite;Site web de l'établissement;geo;latitude;longitude
+29;Le Vin Qui Danse;69 rue broca;75013;Paris;Restaurant;gobelins@vqd.fr;Cuisine Française Moderne et Brunch le Dimanche;12 H à 15H;Oui;https://vqd.fr/;48.836928, 2.347006;48.836928;2.347006
+14;Atelier Ramey;23 rue Ramey;75018;Paris;Bistronomique;latelier.ramey@gmail.com;Cuisine française;7/7 déjeuners et dîners;Oui;http://www.atelier-ramey.com/;48.888327, 2.346721;48.888327;2.346721
+70;Le Christine;1 rue Christine;75006;Paris;Gastronomique;contact@restaurantlechristine.com;Cuisine française modernisé entre la bistronomie et la gastronomie;"Lun-Ven : 12h00-14h30 // 18h30-23h00
+Sam-Dim : 18h30-23h00";Oui;https://www.restaurantlechristine.com/;48.854312, 2.340345;48.854312;2.340345
+8;Le Petit Pontoise;9 rue de pontoise;75005;Paris;Bistrot;contact@lepetitpontoise.fr;Cuisine française traditionnelle. Produits de qualité de nos belles régions  en France. Cuisine Maison par des Maîtres restaurateurs;"lundi au dimanche
+midi et soir
+12h-14h30
+18h30 - 22h30";Oui;http://www.lepetitpontoise.fr/;48.849903, 2.352112;48.849903;2.352112
+69;Les Fous de l'Île;33 rue des Deux Ponts;75004;Paris;Bistronomique;contact@lesfousdelile.com;Cuisine française bistronomique;"Ouvert 7j/7j
+En semaine : 12h-15h // 18h-23h
+Week-end : 12h-23h";Oui;https://www.lesfousdelile.com/;48.852207, 2.356763;48.852207;2.356763
+34;le Bel ordinaire rive gauche;5 rue de Bazeilles;75005;Paris;Bistronomique;cyrille@lebelordinaire.com;Cuisine de marché et de saison, nous travaillons uniquement qu'avec des petits producteurs en circuit court. Menu qui change chaque semaine.;du mardi midi au dimanche midi, déjeuner de 12 à 14h30 et diner de 19h à 22h30;Oui;http://www.lebelordinaire.com/;48.839004, 2.350504;48.839004;2.350504
+26;Le Bossu;17 rue des Deux Ponts;75004;Paris;Bistronomique;Lebossu4@gmail.com;Cuisine française;;Oui;https://www.lebossu.com/;48.851667, 2.356288;48.851667;2.356288
+17;Les Fous de l’île;33 rue des Deux Ponts;75004;Paris;Bistronomique;caroline@lesfousdelile.com;"Cuisine Française, ouvert toute la journée de 12h00 à 23h00.
+Super rapport qualité/prix";10h00-23h00 en continue;Oui;https://www.lesfousdelile.com/;48.852207, 2.356763;48.852207;2.356763
+35;Le Mesturet;77 rue de Richelieu;75002;Paris;Bistrot;contact@lemesturet.com;Cuisine traditionnelle française;le dimanche 21 juin de 16h à 22h : FÊTE  DE LA MUSIQUE.;Oui;https://www.lemesturet.com/;48.869, 2.338492;48.869;2.338492
+7;LAVINIA;3 boulevard de la Madeleine;75001;Paris;Bistronomique;restaurantlaviniamadeleine@lavinia.com;"PASSION DU VIN – Avis aux œnologues et amateurs de bons vins ! Restaurant et bar à vins, LAVINIA boulevard de la Madeleine est un lieu de rencontre, de découverte et de plaisir, qui propose 180 vins au verre et offre la possibilité exceptionnelle de déguster les quelque 6 500 références du monde entier (prix magasin sans majoration !).
+
+LA CUISINE – Le chef Étienne Berg sublime les produits frais, et notamment les produits de la mer. La carte évolue en fonction des arrivages du jour, sa cuisine se veut simple, légère, et subtile. En soirée, on profite des tapas à partager.
+
+BEL ACCORD - Entièrement voué au service du vin, LAVINIA décline presque à l’infini les accords mets et vins, des plus classiques aux plus surprenants. L’équipe, à l’écoute des clients, saura vous conseiller.";Du lundi au samedi sans interruption de 12 à 15h au format restaurant, puis de 15h à 22h au format bar à vins & tapas;Oui;https://www.lavinia.fr/fr/pages/restaurants-madeleine-cnit;48.869655, 2.327487;48.869655;2.327487
+12;Les Cèdres du Liban;5 avenue du Maine;75015;Paris;International;lescedresduliban1@gmail.com;Le plus ancien Restaurant Libanais de Paris et le premier restaurant Maitre Restaurateurs en France;tous les jours de 12h à 14h30 et de 19h à 22h30;Oui;https://www.lescedresduliban.com/;48.844508, 2.320313;48.844508;2.320313
+24;L’Épicerie Cantine;43 rue de Montreuil;75011;Paris;Restaurant;laboutiquecantine@gmail.com;"Produits locaux et de saison 
+Fait maison";"Ouvert tous les jours du mercredi au Lundi de 11h à 23h
+Fermé le mardi";Oui;https://lepicerie-cantine.fr/;48.8505, 2.387998;48.8505;2.387998
+5;Ambassade d'Auvergne;22 rue du du Grenier-Saint-Lazare;75003;Paris;Gastronomique;inof@ambassade-auvergne.com;tous les produits d'Auvergne, de saison, cuisine maison;"12h à 14h30
+19h à 21h30";Oui;https://ambassade-auvergne.fr/fr/;48.863025, 2.353376;48.863025;2.353376
+13;Les Vignes du Liban;291 rue de Vaugirard;75015;Paris;International;lesvignesduliban@me.com;Le second établissement du plus ancien restraurant libanais de paris Les Cèdres du Liban Halal Fait maison;tout les jours 12h-14h30 et 19h-22h30;Oui;https://www.lesvignesduliban.fr/;48.839274, 2.300757;48.839274;2.300757
+107;La Rotonde des Lin;7 place du 25 août 75014;75014;Paris;Brasserie;Larotondedeslin@gmail.com;Cuisine traditionnelle, grande variété de pizzas, couscous reconnus, dessert maison.;Service continu de 11h à 23h.;Oui;;48.822233, 2.325784;48.822233;2.325784
+71;Le Colvert Bistrot;54 rue Saint-André des Arts;75006;Paris;Bistronomique;contact@lecolvertbistrot.com;Cuisine française bistronomique;Ouvert 7j/7j de 12h à 23h;Oui;https://lecolvertbistrot.com/;48.8535, 2.340117;48.8535;2.340117
+63;Ô'cocher table & burger;45 rue de Babylone;75007;Paris;Restaurant;soc.gaja@gmail.com;Cuisine Francaise et traditionnelle,   Burgers , Poke bowl , Salade;11h30 - 15h;Oui;;48.85166, 2.318552;48.85166;2.318552
